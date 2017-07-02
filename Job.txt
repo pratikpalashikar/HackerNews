@@ -1,4 +1,43 @@
 class Item {
+  by: amckenzie
+  id: 14683452
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1499017029
+  title: Rescale (YC W12) Is Hiring for Software Engineers in San Francisco
+  type: job
+  url: http://www.rescale.com/careers/
+}
+class Item {
+  by: odedharth93
+  id: 14682401
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1499002348
+  title: MDacne (YC W17) Is Hiring Computer Vision Engineer
+  type: job
+  url: https://angel.co/mdacne/jobs/252896-computer-vision-engineer
+}
+class Item {
+  by: greattypo
+  id: 14681129
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498975201
+  title: Clever (YC S12) is hiring engineers to help K-12 schools use software
+  type: job
+  url: https://clever.com/about/jobs#software-engineer
+}
+class Item {
   by: alooPotato
   id: 14680427
   kids: null
