@@ -1,0 +1,275 @@
+class Item {
+  by: alooPotato
+  id: 14680427
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498961351
+  title: Streak (YC S11) Is Hiring a Product Designer
+  type: job
+  url: https://www.streak.com/careers#Designer
+}
+class Item {
+  by: deakoxp
+  id: 14678100
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498931710
+  title: Deako (YC W16) Is Hiring a Back End and Front End Senior Software Engineer
+  type: job
+  url: http://deako.com/careers
+}
+class Item {
+  by: rogik
+  id: 14676767
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498911211
+  title: People.ai (YC S16) Is Hiring in Engineering, Sales, and Customer Support
+  type: job
+  url: https://peopleai.workable.com/
+}
+class Item {
+  by: mwasser
+  id: 14675276
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498881017
+  title: BloomAPI (YC W17) Is Hiring to Build the Repository of Health Data in Seattle
+  type: job
+  url: https://www.bloomapi.com/jobs
+}
+class Item {
+  by: kevin_morrill
+  id: 14674508
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498869106
+  title: Mattermark Is Hiring a Data Analyst Intern
+  type: job
+  url: https://jobs.lever.co/mattermark/800c201c-07d0-4b87-b612-62061a926948
+}
+class Item {
+  by: joshbuckley
+  id: 14673573
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498856364
+  title: Mino Games (YC W11) is hiring gameplay programmers in Montreal
+  type: job
+  url: https://mino-games.workable.com/jobs/415887
+}
+class Item {
+  by: the_economist
+  id: 14672318
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498844176
+  title: BuildZoom is hiring all roles – Every 3 minutes someone starts a remodel
+  type: job
+  url: https://jobs.lever.co/buildzoom
+}
+class Item {
+  by: FabioFleitas
+  id: 14669788
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498819799
+  title: Tesorio (YC S15) Is Hiring a Product Designer, Account Executive and Sales Rep
+  type: job
+  url: https://www.tesorio.com/careers/
+}
+class Item {
+  by: thedogeye
+  id: 14668465
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498793481
+  title: Flexport is hiring a senior product designer
+  type: job
+  url: https://www.flexport.com/careers/job/656715
+}
+class Item {
+  by: lostpixel
+  id: 14667778
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text:  ┬──┬﻿ ¯\_(ツ)<p>At BillForward, our billing and WiFi commerce platform powers some of the largest Software and ISP companies in the UK, Canada, USA and others.
+We are looking for: (1) A talented Software Developer and (2) A Benevolent Product Manager<p>to shape features that define Billing and Commerce for the next decade.<p>The ideal candidates have deep insights into how to design, build and ship software that impacts the bottom line. This is a great opportunity to be part of a growing team building and running a high growth company.<p>You will build and design features to improve the BillForward platform. You will nurture a passion for changing the way customers and developers work with billing.<p>We are well-funded, growing quickly and focused on building a world-class company.<p>Drop us a line on: 105 097 110 043 116 103 105 102 064 098 105 108 108 102 111 114 119 097 114 100 046 110 101 116<p>(text 3rd party validated ;))
+  time: 1498780739
+  title: BillForward (YC S14) Is Hiring a Product Manager and Developers
+  type: job
+  url: null
+}
+class Item {
+  by: gchakr
+  id: 14666687
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498768827
+  title: Solugen (YC W17) is hiring a director of business development
+  type: job
+  url: http://www.solugen.co/director-of-business-development.html
+}
+class Item {
+  by: spenny2112
+  id: 14665032
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498756916
+  title: Skip is hiring wireless systems/FPGA engineer to enable autonomous retail
+  type: job
+  url: http://www.skip.it/jobs/
+}
+class Item {
+  by: romming
+  id: 14663167
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: Come build the infrastructure that modern data teams depend on to create and operate their data warehouse! It shouldn&#x27;t take a CS degree to use big data effectively, and abstracting away the difficult parts is our mission.<p>You will:<p>- Be part of the team that is building the next generation of ETL software.<p>- Work on challenging technical problems, and also have frequent and direct interaction with customers - we put our customers first.<p>- Come up with novel ideas on how to make complex technology user-friendly, and then turn those ideas into robust software.<p>About you:<p>- You love data engineering.<p>- You build robust and scalable data systems three times as fast as other developers.<p>- Coding in Java is second nature to you.<p>- You have a passion for improving data analytics.<p>- You’re living in or willing to move to San Francisco.<p>Even better if you also:<p>- Have experience with Cascading, Docker, and AWS.<p>- Know the ins and outs of current big data frameworks like Hadoop, Spark, or Flink, but this is not an absolute requirement - you&#x27;re a quick learner!<p>- Have startup experience.<p>About us: We founded Etleap after getting frustrated with the difficulty of building robust ETL infrastructure for analytics. Our small team loves data but think current ETL tools suck. The position is onsite in SOMA, San Francisco.<p>Apply by sending an email to jobs@etleap.com with your resume, LinkedIn, and Github.
+  time: 1498743523
+  title: Etleap Is Hiring Java Engineers to Build Next-Gen ETL
+  type: job
+  url: null
+}
+class Item {
+  by: dasickis
+  id: 14661767
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: <i>WHAT WE&#x27;RE BUILDING</i>
+One of the first fully automated micro-warehouses: dcvelocity.com&#x2F;articles&#x2F;20170610-micro-warehouses-bring-fulfillment-closer-to-customer&#x2F; and have a strong robotics lead from Megabots helping us design &amp; build the product.<p><i>WHO ARE WE LOOKING FOR</i>
+Another roboticist to help us accelerate the progress as we have a lot to build and an aggressive timeline.<p>Must have skills: 
++ Working with robotic arms especially Universal Robots
++ Can hack together a Raspberry Pi demo to hijack control systems
++ Understanding of how each of our components actually work (conveyor belts, robotic arms, vending machines)
++ Putting together cost of materials spreadsheet (not very hard but surprising how many engineers eschew this practice)
++ Establish rough timelines and provide clarity around parts of the system that are least understood i.e. highest-risk 
++ Communicate project scope and timeline risks as project progresses especially with new feature requests<p>Culture: 
++ We like candid, direct conversations though we dislike arrogance
++ We favor work ethic over intelligence though you need to know what you&#x27;re talking about
++ We call out BS and dislike spin so call out bad news first
++ We like people who can discover solutions rather than need marching orders
++ Someone who can handle a heterogenous work environment without imposing arbitrary social hierarchies meaning people who look, act, and think different while sharing the same vision<p><i>IMMEDIATE IMPACT:</i>
+Currently, we have people from companies including most top e-commerce and physical retailer visiting us when we launch this system. Additionally, there&#x27;s a pending deal to jointly develop tens of thousands of units over the next two years. We&#x27;re interested in people who can build something fast with an eye toward manufacturability.
+  time: 1498727180
+  title: Shotput (YC S15) is hiring a roboticist to build automated warehouses in Oakland
+  type: job
+  url: null
+}
+class Item {
+  by: stephensonsco
+  id: 14659789
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498695878
+  title: Deepgram (YC W16) Is Hiring Engineers to Build AI That Understands Human Speech
+  type: job
+  url: https://careers.deepgram.com
+}
+class Item {
+  by: rogerdickey
+  id: 14652969
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498645460
+  title: Gigster (on-demand developer teams) is hiring for Enterprise Customer Success
+  type: job
+  url: https://jobs.lever.co/gigster/c814eb48-b8e1-4dd9-bf17-d9336a67ccc6
+}
+class Item {
+  by: gdeglin
+  id: 14651972
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498628840
+  title: OneSignal is hiring mobile developers to make notifications smarter
+  type: job
+  url: https://angel.co/onesignal/jobs/128685-senior-mobile-developer
+}
+class Item {
+  by: slederer
+  id: 14651203
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498615544
+  title: Bitmovin (YC S15) Is Hiring a Head of Demand Generation
+  type: job
+  url: https://bitmovin.com/jobs/demandgeneration/
+}
+class Item {
+  by: leahcim
+  id: 14650125
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498602524
+  title: Upcall (YC W17) Is Hiring Developers – API for Phone Calls
+  type: job
+  url: https://www.upcall.com/en/jobs
+}
+class Item {
+  by: tyoung
+  id: 14645313
+  kids: null
+  parent: null
+  parts: null
+  score: 1
+  text: null
+  time: 1498571221
+  title: PlanGrid (YC W12) Is Hiring ML, DevOps, Windows Engineers
+  type: job
+  url: http://www.plangrid.com/en/jobs
+}

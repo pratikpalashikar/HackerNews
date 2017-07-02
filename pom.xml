@@ -1,0 +1,38 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.hackernews.job-search</groupId>
+	<artifactId>job-search</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<name>job-search</name>
+	<url>http://maven.apache.org</url>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+
+
+
+		<!-- adding the dependency for the hacker news api this project contains 
+			the changes added by @pratikpalashikar@gmail.com -->
+		<dependency>
+			<groupId>com.firebaseio.hacker_news</groupId>
+			<artifactId>hacker-news</artifactId>
+			<version>0.0.45</version>
+			<scope>compile</scope>
+		</dependency>
+
+
+	</dependencies>
+</project>
